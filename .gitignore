@@ -26,3 +26,9 @@ Thumbs.db
 # ---- Data (optional: keep large/raw datasets out of the repo) ----
 # data/
 # *.csv
+
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
