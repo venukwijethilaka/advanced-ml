@@ -1,7 +1,7 @@
 # Week Submission
 
-**Week:** Week 02
-**Topic:** ML basics and linear regression
+**Week:** Week 04
+**Topic:** Multiple linear regression
 
 ML basics and linear regression
 
