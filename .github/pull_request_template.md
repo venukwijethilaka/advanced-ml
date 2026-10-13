@@ -1,7 +1,7 @@
 # Week Submission
 
-**Week:** Week 02
-**Topic:** ML basics and linear regression
+**Week:** Week 04
+**Topic:** Multiple linear regression
 
 ML basics and linear regression
 
@@ -10,7 +10,7 @@ ML basics and linear regression
 Please delete options that are not relevant.
 
 - [x] Weekly notes (`notes.md`)
-- [ ] Homework / assignment
+- [x] Homework / assignment
 - [x] Practical implementation (code / notebook)
 - [ ] Other (describe below)
 
@@ -18,7 +18,7 @@ Please delete options that are not relevant.
 
 <!-- A few bullet points on the key concepts from this week's lecture. -->
 
-- I learned about basic ML cores and types of ML.
+- I learned about EDA and Linear regression.
 - Then I leanred how linear regression works.
 - further works are in the notes.md
 
